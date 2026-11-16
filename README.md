@@ -14,5 +14,7 @@ Professora: Fabiana Bravim
 | `aula-16-strings/` | Strings: introdução |
 | `aula-17-bibliotecas/` | Strings e a biblioteca `<string.h>` |
 | `aula-18-funcoes/` | Funções em C |
+| `aula-21-bibliotecas-arquivos/` | Bibliotecas próprias (`.h`/`.c`) e manipulação de arquivos |
+| `aula-22-ponteiros/` | Ponteiros |
 
 Os programas foram desenvolvidos e testados no OnlineGDB.
